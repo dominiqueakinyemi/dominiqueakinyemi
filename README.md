@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dominiqueakinyemi
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me: on socials!
+- 📫 How to reach me: dominiqueakinyemi@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a brown husky named Cinnamon :)
 
