@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dominiqueakinyemi
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👀 I’m interested in data viz and storytelling with data
+- 🌱 I’m currently learning AI/ML
+- 💞️ I’m looking to collaborate on data analysis and machine learning projects
 - 📫 How to reach me: dominiqueakinyemi@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a brown husky named Cinnamon :)
